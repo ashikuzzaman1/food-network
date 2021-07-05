@@ -1,0 +1,139 @@
+body{
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+.orange{
+    color: orange;
+    padding-right: 10px;
+}
+h1{
+    font-size: 40px;
+}
+.full{
+    display: flex;
+}
+.first-full{
+    background-image: url(images/background1.jpg);
+    
+}
+.first-width{
+    width: 50%;
+    padding-left: 40px;
+    padding-top: 100px;
+}
+.first-width img{
+    width: 70%;
+}
+.first-link{
+    text-decoration: none;
+    color: papayawhip;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.para{
+    padding-bottom: 15px;
+}
+.second-full{
+    background-image: url(images/background2.png);
+    
+}
+.second-width{
+    width: 50%;
+    padding: 10px 15px;
+}
+.second-width img{
+    width: 45%;
+    padding-left: 100px;
+}
+.pad-width{
+    padding-top: 100px;
+}
+.title{
+    text-align: center;
+    padding: 0 25%;
+}
+.slider{
+    display: flex;
+    padding: 0 15%;
+}
+.food-slider{
+    width: 20%;
+    padding: 10px 5%;
+    box-shadow: 10px 10px 20px black;
+    border-radius: 10px;
+}
+.food-slider img{
+    width: 100%;
+}
+.slider2{
+    margin-left: 50px;
+}
+.slider3{
+    margin-left: 50px;
+}
+.slide-para{
+    padding-bottom: 50px;
+}
+.subs{
+    display: flex;
+    margin: 80px 15%;
+    width: 70%;
+    box-shadow: 10px 10px 20px black;
+    border-radius: 10px;
+}
+.subs1{
+    padding-left: 80px;
+}
+.subs2{
+    padding-left: 200px;
+}
+.subs3{
+    padding-left: 200px;
+}
+.foot-area{
+    background-color: rgb(55, 21, 88);
+    text-align: center;
+    padding: 40px 0;
+    color: seashell;
+}
+.extra{
+    background-image: url(images/food6.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 1345px;
+    height: 600px;
+}
+.orange1{
+    color: rgb(25, 0, 255);
+    padding-right: 10px;
+}
+.pad-bot{
+    padding-bottom: 15px;
+}
+.extra-one{
+    width: 50%;
+    padding: 50px 50px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.link-food{
+    text-decoration: none;
+    color: papayawhip;
+    background-image: linear-gradient(rgb(60, 255, 0), rgb(104, 15, 145));
+    padding: 10px 20px;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.menu{
+    padding: 20px 13%;
+}
+.menu-link{
+    text-decoration: none;
+    color: papayawhip;
+    background-image: linear-gradient(rgb(17, 0, 255), rgb(83, 71, 255));
+    padding: 10px 20px;
+    font-weight: 700;
+    border-radius: 5px;
+}
